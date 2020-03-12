@@ -12,7 +12,7 @@ If running on chrome doesn't return the json response when clicking the search b
 
 The issue seems to be with the new chrome security update, having "Access-Control-Allow-Origin" in the header still didn't work for me.
 
-# Preview
+# Preview - the only useless functionality right now
 ![alt text](./searchTemplate.PNG)
 *click search
 ![alt text](./searchJsonReturnTemplate.PNG)
