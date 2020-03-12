@@ -14,7 +14,9 @@ The issue seems to be with the new chrome security update, having "Access-Contro
 
 ## TODO
 ### Frontend
-Set up Vuex
+Set up Vuex - store
+
+Routing
 ### Backend API
 Set up proper architecture as needed - service layer, repository layer, etc. 
 
