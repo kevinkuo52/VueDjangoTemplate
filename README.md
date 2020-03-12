@@ -18,11 +18,14 @@ The issue seems to be with the new chrome security update, having "Access-Contro
 Set up Vuex - store
 
 Routing
+
+Unit Tests
 ### Backend API
 Set up proper architecture as needed - service layer, repository layer, etc. 
 
 Persist data from Elasticsearch and other db
 
+Unit Tests
 ## Preview - the only useless functionality right now
 ![alt text](./searchTemplate.PNG)
 *click search
