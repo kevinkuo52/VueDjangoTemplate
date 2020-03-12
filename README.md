@@ -1,5 +1,6 @@
 # VueDjangoTemplate
 
+# Project Setup
 For project setup, read frontend/README.md and APIs/CoreAPI/README.md
 
 frontend will run on http://localhost:8081/
