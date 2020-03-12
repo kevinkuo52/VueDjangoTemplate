@@ -12,6 +12,12 @@ If running on chrome doesn't return the json response when clicking the search b
 
 The issue seems to be with the new chrome security update, having "Access-Control-Allow-Origin" in the header still didn't work for me.
 
+## TODO
+### Frontend
+Set up Vuex
+### Backend API
+Set up proper architecture as needed - service layer, repository layer, etc. 
+
 ## Preview - the only useless functionality right now
 ![alt text](./searchTemplate.PNG)
 *click search
