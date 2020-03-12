@@ -14,3 +14,5 @@ The issue seems to be with the new chrome security update, having "Access-Contro
 
 # Preview
 ![alt text](./searchTemplate.PNG)
+*click search
+![alt text](./searchJsonReturnTemplate.PNG)
