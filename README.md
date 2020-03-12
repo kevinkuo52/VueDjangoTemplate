@@ -17,6 +17,7 @@ The issue seems to be with the new chrome security update, having "Access-Contro
 Set up Vuex
 ### Backend API
 Set up proper architecture as needed - service layer, repository layer, etc. 
+
 Persist data from Elasticsearch and other db
 
 ## Preview - the only useless functionality right now
